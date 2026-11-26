@@ -118,6 +118,11 @@ export const INTERNATIONAL_EXPERIENCE: InternationalRole[] = [
     role: 'Secretaria',
     context: 'SAJAVEN · Venezuela · Gestión administrativa, archivo y recepción',
   },
+  {
+    period: '2005 – 2007',
+    role: 'Dependienta e impulsadora',
+    context: 'Colombia · Atención comercial al público, promoción de productos y apoyo en punto de venta',
+  },
 ];
 
 export const COMPETENCIES: CompetencyItem[] = [

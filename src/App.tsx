@@ -190,7 +190,7 @@ export default function App() {
             {/* Key Facts Strip below Hero Split */}
             <div className="mt-12 pt-8 border-t border-slate-200 grid grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-8">
               <div>
-                <p className="text-2xl sm:text-3xl font-bold text-[#0F2342] tabular-nums">15+ años</p>
+                <p className="text-2xl sm:text-3xl font-bold text-[#0F2342] tabular-nums">20+ años</p>
                 <p className="text-xs sm:text-sm text-[#5A6573] mt-1">Trayectoria laboral continua</p>
               </div>
               <div>
@@ -402,7 +402,7 @@ export default function App() {
                 <div className="flex flex-wrap items-baseline justify-between gap-4 mb-8">
                   <h3 className="text-lg font-bold text-[#0F2342]">
                     Experiencia laboral en Colombia y Venezuela{' '}
-                    <span className="italic font-normal text-[#5A6573]">(2008 – 2021)</span>
+                    <span className="italic font-normal text-[#5A6573]">(2005 – 2021)</span>
                   </h3>
                   <p className="text-xs sm:text-sm text-[#5A6573]">
                     Polivalencia en comercio, industria alimentaria, agricultura, taquilla y secretariado
