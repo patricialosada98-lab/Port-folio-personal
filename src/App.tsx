@@ -172,16 +172,16 @@ export default function App() {
               <div className="lg:col-span-5 relative flex">
                 <figure className="parallax-frame relative w-full rounded-xl overflow-hidden bg-[#F4F6F9] border border-slate-200 shadow-sm min-h-[280px] lg:min-h-[420px]" data-shift="-18">
                   <img
-                    src="/src/assets/images/hero_workspace_care_1795683506520.jpg"
-                    alt="Espacio residencial moderno, luminoso y ordenado en Donostia que refleja el cuidado profesional del hogar"
+                    src="/src/assets/images/perfil_profesional_mujer_1795693038598.jpg"
+                    alt="Retrato profesional de mujer con americana azul marino y camisa blanca en entorno luminoso"
                     referrerPolicy="no-referrer"
-                    className="w-full h-full object-cover lg:absolute lg:inset-0"
+                    className="w-full h-full object-cover object-top lg:absolute lg:inset-0"
                   />
                   <div className="hidden sm:block absolute inset-x-0 bottom-0 h-28 bg-gradient-to-t from-[#0F2342]/80 via-[#0F2342]/35 to-transparent pointer-events-none" />
                   <figcaption className="hidden sm:block absolute bottom-4 left-5 right-5 text-white text-xs leading-snug">
-                    <span className="font-semibold">Donostia y Rentería</span>
+                    <span className="font-semibold">Olga Posada</span>
                     <span className="mx-2 text-slate-300" aria-hidden="true">·</span>
-                    <span className="italic text-slate-100">Hogar, cuidado infantil y atención comercial</span>
+                    <span className="italic text-slate-100">Donostia y Rentería</span>
                   </figcaption>
                 </figure>
               </div>

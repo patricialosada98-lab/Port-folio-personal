@@ -34,13 +34,18 @@ export function Navbar() {
   return (
     <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-slate-200">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-8">
-        {/* Zone 1: Single text element wordmark */}
+        {/* Zone 1: Brand mark with OP initials icon */}
         <a
           href="#inicio"
           onClick={handleNavClick}
-          className="font-display text-lg font-bold tracking-tight text-[#0F2342] whitespace-nowrap shrink-0 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#0284C7] rounded-sm"
+          className="inline-flex items-center gap-2.5 font-display text-lg font-bold tracking-tight text-[#0F2342] whitespace-nowrap shrink-0 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#0284C7] rounded-sm"
         >
-          Olga Posada
+          <img
+            src="/assets/aistudio/image_8616b7c8.png"
+            alt="Iniciales OP de Olga Posada"
+            className="w-8 h-8 object-cover rounded-sm border border-slate-200 shrink-0"
+          />
+          <span>Olga Posada</span>
         </a>
 
         {/* Zone 2: Concise single-line desktop navigation links */}
