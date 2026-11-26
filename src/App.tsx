@@ -402,7 +402,7 @@ export default function App() {
                 <div className="flex flex-wrap items-baseline justify-between gap-4 mb-8">
                   <h3 className="text-lg font-bold text-[#0F2342]">
                     Experiencia laboral en Colombia y Venezuela{' '}
-                    <span className="italic font-normal text-[#5A6573]">(2005 – 2021)</span>
+                    <span className="italic font-normal text-[#5A6573]">(2005 – 2022)</span>
                   </h3>
                   <p className="text-xs sm:text-sm text-[#5A6573]">
                     Polivalencia en comercio, industria alimentaria, agricultura, taquilla y secretariado

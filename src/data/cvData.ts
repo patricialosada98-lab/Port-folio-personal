@@ -89,7 +89,7 @@ export const SPAIN_EXPERIENCE: ExperienceItem[] = [
 
 export const INTERNATIONAL_EXPERIENCE: InternationalRole[] = [
   {
-    period: '2021',
+    period: 'Julio 2021 – Febrero 2022',
     role: 'Empleada de Hogar',
     context: 'Colombia · Mantenimiento integral doméstico y cuidado familiar',
   },
