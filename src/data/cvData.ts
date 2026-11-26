@@ -104,7 +104,12 @@ export const INTERNATIONAL_EXPERIENCE: InternationalRole[] = [
     context: 'Colombia · Cultivo, cuidado diario y clasificación de producto',
   },
   {
-    period: '2016 – 2018 / 2010 – 2015',
+    period: '2016 – 2018',
+    role: 'Dependienta y gestión de almacén',
+    context: 'Colombia · Atención comercial, inventario y reposición',
+  },
+  {
+    period: '2010 – 2015',
     role: 'Dependienta y gestión de almacén',
     context: 'Colombia · Atención comercial, inventario y reposición',
   },
